@@ -6,7 +6,9 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "async": "^1.0.0",
     "bluebird": "^2.9.25",
+    "chai": "^2.3.0",
     "mongoose": "^4.0.3"
   },
   "devDependencies": {
