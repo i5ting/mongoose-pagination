@@ -1,0 +1,15 @@
+{
+  "name": "mongoose-pagination",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "mongoose": "^4.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
